@@ -3,7 +3,7 @@
 ## Desafios
 
 - [x] Fazer o formulário aparecer, suavemente, quando a página abrir
-- [] Fazer os campos aparecem da esquerda pra direita, suavizando a entrada e fazendo-os entrar em momentos distintos
+- [x] Fazer os campos aparecem da esquerda pra direita, suavizando a entrada e fazendo-os entrar em momentos distintos
 - [] Quando clicar em Login, fazer o formulário sair da tela, indo para baixo
 - [] Remover formulário do html e não mostrar rolagem enquanto o formulário está saindo da tela
 - [] Adicionar um efeito diferente de timing para a saída do formulário
