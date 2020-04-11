@@ -7,7 +7,7 @@
 - [x] Quando clicar em Login, fazer o formulário sair da tela, indo para baixo
 - [x] Remover formulário do html e não mostrar rolagem enquanto o formulário está saindo da tela
 - [x] Adicionar um efeito diferente de timing para a saída do formulário
-- [] Fazer o formulário dizer não-não (vibrar) caso haja campos vazios.
+- [x] Fazer o formulário dizer não-não (vibrar) caso haja campos vazios.
 - [] Criar alguns quadrados animados (que fiquem girando) e que saem de baixo da tela (fora do campo de visão) e vão para cima da tela (que saia do campo de visão também). _Detalhes_: Deve ter tamanhos diferentes, sairem em momentos diferentes, terem timing diferente, animação contínua.
 
 ## Animation
